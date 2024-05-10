@@ -18,8 +18,6 @@ You can log in to Twitter using your account username, email address and passwor
 
 - [Documentation (English)](https://twikit.readthedocs.io/en/latest/twikit.html)
 
-- [Async Documentation](https://twikit.readthedocs.io/en/latest/twikit.twikit_async.html)
-
 
 
 If you have any questions, you can ask on [Discord](https://discord.gg/nCrByrr8cX).
@@ -28,6 +26,11 @@ If you have any questions, you can ask on [Discord](https://discord.gg/nCrByrr8c
 
 ## Features
 
+### Humanized Requests
+
+twikit has no humanity spoof on sending requests.
+This repo is fixing that to prevent your account from being frozen.
+
 ### No API Key Required
 
 This library uses the unofficial API, therefore does **not require an API key**.
@@ -35,12 +38,6 @@ This library uses the unofficial API, therefore does **not require an API key**.
 ### Completely Free
 
 This library is completely free to use.
-
-### Both Synchronous and Asynchronous Support
-
-Whether you prefer **synchronous** or **asynchronous** programming,
-
-Twikit supports both, providing flexibility for different use cases.
 
 
 ## Functionality
