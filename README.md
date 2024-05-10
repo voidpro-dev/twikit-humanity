@@ -61,7 +61,7 @@ This library allows you to perform various Twitter-related actions, including:
 
 ```bash
 
-pip install twikit
+pip install git+https://github.com/voidpro-dev/twikit-humanity.git
 
 ```
 
@@ -134,6 +134,6 @@ I would like to hear your thoughts and suggestions.
 
 If you have any features you'd like to see added or encounter any issues,
 
-please let me know in the [issues](https://github.com/d60/twikit/issues) section.
+please let me know in the [issues](https://github.com/voidpro-dev/twikit-humanity/issues) section.
 
 Additionally, if you find this library useful, I would appreciate it if you would star this repository or share this library⭐! Thank you very much!
